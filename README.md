@@ -19,14 +19,14 @@ This repository was written Python , and requires the following Python packages:
  # Summary
     Among all tenure of member is the higest predictor of the effectiveness of an offer.
     
-     ### Question 1:
+     # Question 1:
               Among all tenure of member is the higest predictor of the effectiveness of an offer.
 
               One good common point while in 3 model preperation tenure of member, income and age are top 3 factors on prediction.
 
               BOGO and discount are quiet un balanced compared to information with top 3 features.
               
-     ### Question 2:
+     # Question 2:
               By the end of 3 model preperations I could say that Bogo and discount are performed better than 80% which is quiet and acceptable business criteria.
               BOGO (82.87%)
               Discount (87.38%)
