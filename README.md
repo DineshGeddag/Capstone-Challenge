@@ -2,6 +2,9 @@
 
 # Starbucks Capstone Challenge: Using Starbucks app user data to predict effective offers
 
+# Blogpost
+[Please click here to refer my blog post](https://dineshgedda.medium.com/star-bucks-capstone-8e695f4ad250)
+
 # Installation
 This repository was written Python , and requires the following Python packages: pandas, numpy,  sklearn, matplotlib,DecisionTreeClassifier,RandomForestClassifier,f1_score.
 
