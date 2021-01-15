@@ -6,7 +6,8 @@
 [Please click here to refer my blog post](https://dineshgedda.medium.com/star-bucks-capstone-8e695f4ad250)
 
 # Installation
-This repository was written Python , and requires the following Python packages: pandas, numpy,  sklearn, matplotlib,DecisionTreeClassifier,RandomForestClassifier,f1_score.
+This repository was written Python , and requires the following Python packages: 
+pandas, numpy,  sklearn, matplotlib,DecisionTreeClassifier,RandomForestClassifier,f1_score, GridserachCV.
 
 # Project Motivation
   In this model development I have used two business problem statements
