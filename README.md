@@ -7,7 +7,7 @@
 
 # Installation
 This repository was written Python , and requires the following Python packages: 
-pandas, numpy,  sklearn, matplotlib,DecisionTreeClassifier,RandomForestClassifier,f1_score, GridserachCV.
+pandas, numpy,  sklearn, matplotlib,DecisionTreeClassifier,RandomForestClassifier,f1_score, GridserachCV, classification_report, train_test_split, StandardScaler.
 
 # Project Motivation
   In this model development I have used two business problem statements
